@@ -1,0 +1,8 @@
+﻿<root>
+  <!--comment-->
+  <node first="true">A</node>
+  <node>B</node>
+  <C>
+    <complex>text</complex>
+  </C>
+</root>

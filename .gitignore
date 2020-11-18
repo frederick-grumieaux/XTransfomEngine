@@ -1,0 +1,5 @@
+**/bin/*
+**/node_modules/*
+**/.vs/*
+**/dist/*
+**/obj/*
